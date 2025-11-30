@@ -1,4 +1,4 @@
-﻿namespace TwitterDiscordWebhook
+﻿namespace NitterDiscordWebhook
 {
     using System;
     using System.Collections.Generic;
